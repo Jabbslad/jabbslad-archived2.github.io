@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 01:55:15 +0000</lastBuildDate>
     
 	<atom:link href="https://jabbslad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>This is my first post!&#34;</title>
+      <link>https://jabbslad.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 31 Jan 2020 01:55:15 +0000</pubDate>
+      
+      <guid>https://jabbslad.github.io/posts/my-first-post/</guid>
+      <description>This is the first post on my new blog!</description>
+    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
